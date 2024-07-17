@@ -23,6 +23,9 @@
 
 ![Content Image](2.4.PNG)
 
+![Content Image](2.5.PNG)
+
+
 <h4>Additional Terms</h4>
 
 <h6> ML Model </h6>
