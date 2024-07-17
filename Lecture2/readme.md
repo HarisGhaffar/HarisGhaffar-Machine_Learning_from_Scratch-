@@ -20,6 +20,7 @@
 ![Content Image](2.2.PNG)
 
 <h4>ML Applications</h4>
+
 ![Content Image](2.4.PNG)
 
 <h4>Additional Terms</h4>
