@@ -19,6 +19,9 @@
 
 ![Content Image](2.2.PNG)
 
+<h4>ML Applications</h4>
+![Content Image](2.4.PNG)
+
 <h4>Additional Terms</h4>
 
 <h6> ML Model </h6>
@@ -27,4 +30,6 @@
 <p>Here's a comparison of parameters and hyperparameters in the form of a table</p>
 
 ![Content Image](2.3.PNG)
+
+
 
