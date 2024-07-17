@@ -26,5 +26,5 @@
 
 <p>Here's a comparison of parameters and hyperparameters in the form of a table</p>
 
-![Content Image](2.2.PNG)
+![Content Image](2.3.PNG)
 
